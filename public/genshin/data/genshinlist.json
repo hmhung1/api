@@ -1,0 +1,270 @@
+[
+  {
+    "ID": 0,
+    "name": "Jean"
+  },
+  {
+    "ID": 1,
+    "name": "Xiao"
+  },
+  {
+    "ID": 2,
+    "name": "KAMISATO AYAKA"
+  },
+  {
+    "ID": 3,
+    "name": "TIGHNARI"
+  },
+  {
+    "ID": 4,
+    "name": "LYNEY"
+  },
+  {
+    "ID": 5,
+    "name": "LYNETTE"
+  },
+  {
+    "ID": 6,
+    "name": "FREMINET"
+  },
+  {
+    "ID": 7,
+    "name": "NEUVILLETTE"
+  },
+  {
+    "ID": 8,
+    "name": "WRIOTHESLEY"
+  },
+  {
+    "ID": 9,
+    "name": "CHARLOTTE"
+  },
+  {
+    "ID": 10,
+    "name": "FURINA"
+  },
+  {
+    "ID": 11,
+    "name": "NAVIA"
+  },
+  {
+    "ID": 12,
+    "name": "CHEVREUSE"
+  },
+  {
+    "ID": 13,
+    "name": "CHIORI"
+  },
+  {
+    "ID": 14,
+    "name": "DILUC"
+  },
+  {
+    "ID": 15,
+    "name": "COLLEI"
+  },
+  {
+    "ID": 16,
+    "name": "DORI"
+  },
+  {
+    "ID": 17,
+    "name": "CYNO"
+  },
+  {
+    "ID": 18,
+    "name": "CANDAKE"
+  },
+  {
+    "ID": 19,
+    "name": "NILOU"
+  },
+  {
+    "ID": 20,
+    "name": "NAHIDA"
+  },
+  {
+    "ID": 21,
+    "name": "LAYLA"
+  },
+  {
+    "ID": 22,
+    "name": "WANDERER"
+  },
+  {
+    "ID": 23,
+    "name": "FARUZAN"
+  },
+  {
+    "ID": 24,
+    "name": "ALHAITHAM"
+  },
+  {
+    "ID": 25,
+    "name": "DEHYA"
+  },
+  {
+    "ID": 26,
+    "name": "KAVEH"
+  },
+  {
+    "ID": 27,
+    "name": "KAEDEHARA KAZUHA"
+  },
+  {
+    "ID": 28,
+    "name": "YOIMIYA"
+  },
+  {
+    "ID": 29,
+    "name": "SAYU"
+  },
+  {
+    "ID": 30,
+    "name": "RAIDEN SHOGUN"
+  },
+  {
+    "ID": 31,
+    "name": "KUJOU SARA"
+  },
+  {
+    "ID": 32,
+    "name": "SANGONOMIYA KOKOMI"
+  },
+  {
+    "ID": 33,
+    "name": "THOMA"
+  },
+  {
+    "ID": 34,
+    "name": "ARATAKI ITTO"
+  },
+  {
+    "ID": 35,
+    "name": "GOROU"
+  },
+  {
+    "ID": 36,
+    "name": "YAE MIKO"
+  },
+  {
+    "ID": 37,
+    "name": "KAMISATO AYATO"
+  },
+  {
+    "ID": 38,
+    "name": "KUKI SHINOBU"
+  },
+  {
+    "ID": 39,
+    "name": "SHIKANONI HEIZOU"
+  },
+  {
+    "ID": 40,
+    "name": "KIRARA"
+  },
+  {
+    "ID": 41,
+    "name": "BEIDOU"
+  },
+  {
+    "ID": 42,
+    "name": "NINGGUANG"
+  },
+  {
+    "ID": 43,
+    "name": "XIANGLING"
+  },
+  {
+    "ID": 44,
+    "name": "XINGQIU"
+  },
+  {
+    "ID": 45,
+    "name": "CHONGYUN"
+  },
+  {
+    "ID": 46,
+    "name": "QIQI"
+  },
+  {
+    "ID": 47,
+    "name": "KEQING"
+  },
+  {
+    "ID": 48,
+    "name": "TARTAGLIA"
+  },
+  {
+    "ID": 49,
+    "name": "ZHONGLI"
+  },
+  {
+    "ID": 50,
+    "name": "XINYAN"
+  },
+  {
+    "ID": 51,
+    "name": "GANYU"
+  },
+  {
+    "ID": 52,
+    "name": "HU TAO"
+  },
+  {
+    "ID": 53,
+    "name": "YANFEI"
+  },
+  {
+    "ID": 54,
+    "name": "SHENHE"
+  },
+  {
+    "ID": 55,
+    "name": "YUN JIN"
+  },
+  {
+    "ID": 56,
+    "name": "YELAN"
+  },
+  {
+    "ID": 57,
+    "name": "LISA"
+  },
+  {
+    "ID": 58,
+    "name": "KLEE"
+  },
+  {
+    "ID": 59,
+    "name": "NONA"
+  },
+  {
+    "ID": 60,
+    "name": "DIONA"
+  },
+  {
+    "ID": 61,
+    "name": "ALOY"
+  },
+  {
+    "ID": 62,
+    "name": "MIKA"
+  },
+  {
+    "ID": 63,
+    "name": "ROSARIA"
+  },
+  {
+    "ID": 64,
+    "name": "SUCROSE"
+  },
+  {
+    "ID": 65,
+    "name": "FISCHL"
+  },
+  {
+    "ID": 66,
+    "name": "RAZOR"
+  }
+]
