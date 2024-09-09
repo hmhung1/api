@@ -10,7 +10,7 @@
   "author": "hmhung",
   "engines": {
     "node": "16.x"
-  }
+  },
   "license": "ISC",
   "dependencies": {
     "@types/node": "^18.0.6",
