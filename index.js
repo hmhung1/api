@@ -87,10 +87,15 @@ app.post('/', (req, res) => {
 
 // Start server
 const PORT = process.env.PORT || 3000;
-app.set('port', PORT);
-app.listen(PORT, () => {
+
+app.listen(PORT, (err) => {
+    if (err) {
+        console.error('Error starting the server:', err);
+        process.exit(1);
+    }
     console.log('\x1b[36m[ START ] -> Server listening on port\x1b[37m', PORT, '\n');
 });
+
 
 // Initialize uptime monitoring
 uptime();
